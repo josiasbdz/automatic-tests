@@ -4,4 +4,4 @@
 
 Utilizado o robot-framework e python para a execução de testes automáticos.
 
-``` apt-get install ```
+``` apt-get install python3```
